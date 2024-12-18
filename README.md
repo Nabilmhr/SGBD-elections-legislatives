@@ -1,4 +1,4 @@
-# SGBD-lections-l-gislatives
+# SGBD-elections-legislatives
 Projet : Analyse d'une Base de Données d'Élections Législatives
 
 Ce projet consiste en une série de requêtes SQL et de modifications structurelles sur une base de données liée aux élections législatives. L'objectif est d'assurer l'évolution de la structure de la base et d'extraire des informations pertinentes pour l'analyse des résultats électoraux.
